@@ -1,6 +1,6 @@
 class Dog
   
-  rocky = Dog.new  
+  fido = Dog.new  
   
   
 end
